@@ -3,6 +3,8 @@
     font-style: italic;
 }
 
-.btn-swing:hover{
+.btn-swing-bold:hover{
     border: 2px solid blue;
+    font-size: bold;
+    font-style: italic;
 }
